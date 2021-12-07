@@ -1,0 +1,8 @@
+html
+  {scroll-behavior: smooth;}
+
+body
+  {background-image: url(../img/fundo.jpg);
+  background-repeat: round;
+  font-family:Helvetica;}
+
